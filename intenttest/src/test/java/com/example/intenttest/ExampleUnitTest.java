@@ -1,4 +1,4 @@
-package com.test.intetntest;
+package com.example.intenttest;
 
 import org.junit.Test;
 
